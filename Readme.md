@@ -83,5 +83,5 @@
 
 
 
-> 如有需要，所有运行过程中用到的scripts，联系：qingyan@tju.edu.cn
+> 如有需要，所有运行过程中用到的scripts以及原本的avi数据集和抽取的mosift和stip特征，联系：qingyan@tju.edu.cn
 
