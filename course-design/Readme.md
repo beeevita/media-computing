@@ -28,7 +28,7 @@
 
 ### 可视化部分
 
-####recognize_mosift.m 
+#### recognize_mosift.m 
 
 将mosift特征点打到视频的每一帧中，同时可视化mosift梯度变化方向并且将图片存储。
 
@@ -83,5 +83,5 @@
 
 
 
-> 如有需要，所有运行过程中用到的scripts以及原本的avi数据集和抽取的mosift和stip特征，联系：qingyan@tju.edu.cn
+> 如有需要，所有运行过程中用到的scripts以及原本的avi数据集和抽取的mosift和stip特征，联系：evitamine4ever@gmail.com
 
